@@ -8,7 +8,6 @@ import (
 
 	// Import the generated protobuf code
 	pb "github.com/G0tYou/shippy-service-consignment/proto/consignment"
-
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 )

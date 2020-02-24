@@ -4,6 +4,7 @@ go 1.13
 
 require (
 	github.com/G0tYou/shippy-service-consignment v0.0.0-20200224184243-51af22c157e2
+	github.com/golang/protobuf v1.3.3
 	golang.org/x/net v0.0.0-20200222125558-5a598a2470a0 // indirect
 	golang.org/x/sys v0.0.0-20200223170610-d5e6a3e2c0ae // indirect
 	golang.org/x/text v0.3.2 // indirect
